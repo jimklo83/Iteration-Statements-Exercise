@@ -135,6 +135,15 @@ namespace IterationStatements
         //Call the methods to test them in the Main method below
         static void Main(string[] args)
         {
+            CountDown();
+            MultiplesThree();
+            EqualParameters(20, 20);
+            EvenOrOdd(7);
+            PositiveOrNegative(-4);
+            CanYouVote();
+            CanYouVoteTwo();
+            InTheRange();
+            MultiplyTable();
         }
     }
 }
